@@ -1,0 +1,13 @@
+﻿Build started...
+1>------ Build started: Project: Mini Text Editor, Configuration: Debug Win32 ------
+1>Text_Editor.cpp
+1>E:\Visual studio\Mini Text Editor\Text_Editor.cpp(211,11): warning C4129: 'C': unrecognized character escape sequence
+1>E:\Visual studio\Mini Text Editor\Text_Editor.cpp(225,10): warning C4129: 'C': unrecognized character escape sequence
+1>E:\Visual studio\Mini Text Editor\Text_Editor.cpp(296,11): warning C4129: 'S': unrecognized character escape sequence
+1>E:\Visual studio\Mini Text Editor\Text_Editor.cpp(360,11): warning C4129: 'F': unrecognized character escape sequence
+1>E:\Visual studio\Mini Text Editor\Text_Editor.cpp(371,23): warning C4018: '<': signed/unsigned mismatch
+1>E:\Visual studio\Mini Text Editor\Text_Editor.cpp(409,11): warning C4129: 'F': unrecognized character escape sequence
+1>E:\Visual studio\Mini Text Editor\Text_Editor.cpp(425,10): warning C4129: 'D': unrecognized character escape sequence
+1>Mini Text Editor.vcxproj -> E:\Visual studio\Mini Text Editor\Debug\Mini Text Editor.exe
+1>Done building project "Mini Text Editor.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
